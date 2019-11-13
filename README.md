@@ -10,6 +10,6 @@ I gathered 70 images each of Air Jordan 1 and Yeezy Boost 350 shoes and 15 image
 Using only 70 images and two shoe types was for simplicity. 
 Accuracy of model was 75% since my dataset was fairly small. 
 
-Overall, image recognition works as intended resulting in over 90% confidence when detecting Jordans or Yeezys sneakers.
+Overall, even with a 75% accuracy using CreateML, image recognition works as intended resulting in over 90% confidence when using the app for recognizing Jordans and Yeezys. 
 
 For future improvements, I would gather a much larger dataset and more diverse shoe types to not limit the recognition to only two shoes.
